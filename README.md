@@ -1,6 +1,6 @@
 # DOOM for Virtual Boy
 
-A port of the real Doom engine to the Nintendo Virtual Boy, built on
+A port of the real Doom engine to the Nintendo Virtual Boy, built on 
 [GBADoom](https://github.com/doomhack/GBADoom) (a prBoom derivative for the Game Boy Advance).
 It runs the complete shareware Episode 1, *Knee-Deep in the Dead*, with music, sound effects and save games,
 on an unmodified Virtual Boy with a HyperFlash32 flash cart.
