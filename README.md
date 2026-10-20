@@ -8,8 +8,7 @@ on an unmodified Virtual Boy with a HyperFlash32 flash cart.
 > ## HEAVILY AI ASSISTED
 > This port was **heavily AI assisted**. Most of the porting work, the Virtual Boy platform code,
 > the renderer changes, the sound driver and the tools in this repository were written by an AI
-> assistant (Claude, by Anthropic), working step by step under the direction of the project owner.
-> The project owner set the goals, made the decisions and tested every build on real hardware.
+> assistant.
 > The code builds and runs, and has been tested in Mednafen/Beetle VB and on a real Virtual Boy with
 > a HyperFlash32. Even so, it has not had the line-by-line human review that hand-written homebrew
 > normally gets. Please keep that in mind when you read, reuse or build on it.
